@@ -7,7 +7,7 @@ DublinBikes is a public bicycle rental scheme that has operated in Dublin city s
 
 
 II. DATA SETS:
-The data sets will be get from https://data.gov.ie/dataset/dublinbikes-api. The data sets save the historic operation of 110 bike stations in Dublin with a 5-minute interval from Q3 2018 to Q3 2020. It means that every 5 minutes, a new row will be recorded in the database to demonstrate the state of a bike station at this time including some fields such as station id, time, bikes available, bike stands available, etc. These records were extracted from the database to 10.csv files relevant to 10 quarters from Q3 2018 to Q4 2020. The total volume of these 9 .csv files is 2.99 GB and the total rows are approximately 26.7 million.
+The data sets will be get from https://data.gov.ie/dataset/dublinbikes-api. The data sets save the historic operation of 116 bike stations in Dublin with a 5-minute interval from Q3 2018 to Q3 2020. It means that every 5 minutes, a new row will be recorded in the database to demonstrate the state of a bike station at this time including some fields such as station id, time, bikes available, bike stands available, etc. These records were extracted from the database to 10.csv files relevant to 10 quarters from Q3 2018 to Q4 2020. The total volume of these 9 .csv files is 2.99 GB and the total rows are approximately 26.7 million.
 
 III. GOALS:
 Analysing the level of traffic on an hourly/daily basis to answer the below questions:
