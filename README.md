@@ -52,3 +52,7 @@ VI. WEAKNESSES:
 Due to the significant size of the data, it takes a long time to run it on a single computer to do the analysis. The limitation of this study is that bikes in use per hour have not been conducted. In addition, the way to identify the ”Crowded station” or ”Quiet station” based on some features is still relative.
 
 VII. FUTURE WORKS:
+1. Analyse the level of traffic per hour.
+2. Show the traffic on a Heatmap.
+3. Clustering stations by locations.
+4. Find a better way to redistribute bikes
